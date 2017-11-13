@@ -1,0 +1,12 @@
+GE
+list of assets
+sound: win, lose, walking, running, enemy nearby, enemy standstill, *papermap, *using item
+
+model&image: wall and texture, enemy texture, jumpscare, torch and texture, ground texture, map, item, paper, main menu, win, lose
+
+level design(maze map)
+
+1) 1st person view
+2) seperate tasks
+3) start with the scene
+

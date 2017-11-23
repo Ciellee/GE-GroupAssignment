@@ -1,6 +1,0 @@
-1) story 
-2) no.of character: 7 (Player, murderer, young couple(2), brother of murderer, manager, cleaner
-
-3) search for asset: sound: chr moving, conversation, item collected, clue, bgm of different chr, time reached, chasing scene, murderer found, win, lose
-4)image: chr, scene, win, lose, items
-

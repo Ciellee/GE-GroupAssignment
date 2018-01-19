@@ -1,0 +1,19 @@
+﻿__ GE Checklist__
+
+1) Level Design (__50%__)
+- 1 floor (will add floor if possible)
+- 1st person chr (end game when rotate over 180 degree)
+- Enemy Type A
+- Enemy Type B
+
+2) Mirror (__0%__)
+- When use, enemy Type ? leave
+- Required cooldown everytime used
+- ?
+
+3) Key (Pickup) (__0%__)
+- Required to exit the floor (win)
+
+4) Lose (__0%__)
+- Able to restart when lose
+- Inser jumpscare image when lose

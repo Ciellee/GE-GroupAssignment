@@ -84,6 +84,11 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Ameye\DoorsFree\Demo\MouseLook.cs" />
+    <Compile Include="Assets\Ameye\DoorsFree\Demo\PlayerMovement.cs" />
+    <Compile Include="Assets\Ameye\DoorsFree\Scripts\ConditionalHideAttribute.cs" />
+    <Compile Include="Assets\Ameye\DoorsFree\Scripts\Detection.cs" />
+    <Compile Include="Assets\Ameye\DoorsFree\Scripts\Door.cs" />
     <Compile Include="Assets\DoorScript.cs" />
   </ItemGroup>
   <ItemGroup>

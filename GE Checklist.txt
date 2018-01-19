@@ -6,11 +6,6 @@
 - Enemy Type A
 - Enemy Type B
 
-2) Mirror (__0%__)
-- When use, enemy Type ? leave
-- Required cooldown everytime used
-- ?
-
 3) Key (Pickup) (__0%__)
 - Required to exit the floor (win)
 
@@ -33,3 +28,9 @@ http://soundbible.com/1826-Hell.html
 
 door
 http://soundbible.com/1717-Creaking-Door-Spooky.html
+
+lighting
+around player and lamp
+
+AI
+Raycasting and pathfinding

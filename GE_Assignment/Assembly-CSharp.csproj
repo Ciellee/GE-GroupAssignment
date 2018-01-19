@@ -51,6 +51,7 @@
      <Compile Include="Assets\Ameye\DoorsFree\Scripts\ConditionalHideAttribute.cs" />
      <Compile Include="Assets\Ameye\DoorsFree\Scripts\Detection.cs" />
      <Compile Include="Assets\Ameye\DoorsFree\Scripts\Door.cs" />
+     <Compile Include="Assets\DoorProject\Scripts\DoorScript.cs" />
      <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
      <None Include="Assets\Standard Assets\Characters\ThirdPersonCharacter\ThirdPersonCharacterGuidelines.txt" />
      <None Include="Assets\Standard Assets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt" />

@@ -70,7 +70,7 @@ MonoBehaviour:
   m_MinSize: {x: 232, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 91
+  controlID: 73
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -95,7 +95,7 @@ MonoBehaviour:
   m_MinSize: {x: 713, y: 492}
   m_MaxSize: {x: 18008, y: 14042}
   vertical: 0
-  controlID: 11
+  controlID: 72
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -234,7 +234,7 @@ MonoBehaviour:
   m_MinSize: {x: 204, y: 221}
   m_MaxSize: {x: 4004, y: 4021}
   vertical: 0
-  controlID: 12
+  controlID: 97
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -428,19 +428,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Tim's Assets/Doors/Materials
+    - Assets
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/Tim's Assets/Doors/Materials
+  - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\user\Documents\GE_Assignment
+  m_LastProjectPath: E:\Git\GE-GroupAssignment\GE_Assignment
   m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 197}
-    m_SelectedIDs: 40260000
-    m_LastClickedID: 9792
-    m_ExpandedIDs: 0000000014250000f2250000f6250000f825000012260000402600005026000038270000d62a0000d82a0000da2a0000dc2a0000de2a000000ca9a3bffffff7f
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: cc2f0000
+    m_LastClickedID: 12236
+    m_ExpandedIDs: 00000000cc2f00003430000036300000443000004a30000076300000b2300000b43000006033000062330000ffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -468,7 +468,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000014250000f2250000f6250000f825000012260000402600005026000038270000d62a0000d82a0000da2a0000dc2a0000de2a0000
+    m_ExpandedIDs: 00000000cc2f0000f22f0000343000003630000038300000443000004a3000005230000076300000b2300000b43000006033000062330000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -549,7 +549,7 @@ MonoBehaviour:
     y: 92
     width: 278
     height: 710
-  m_ScrollPosition: {x: 0, y: 0}
+  m_ScrollPosition: {x: 0, y: 120}
   m_InspectorMode: 0
   m_PreviewResizer:
     m_CachedPref: 160
@@ -584,9 +584,9 @@ MonoBehaviour:
     height: 433
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 
-    m_LastClickedID: 0
-    m_ExpandedIDs: e6fbffff00000000
+    m_SelectedIDs: 06dcffff
+    m_LastClickedID: -9210
+    m_ExpandedIDs: a4cdffff20dcffff0000000006310000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -641,9 +641,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 63.14074, y: -95.85095, z: -228.45197}
+    m_Target: {x: 55.140152, y: -34.43627, z: -258.85687}
     speed: 2
-    m_Value: {x: 63.14074, y: -95.85095, z: -228.45197}
+    m_Value: {x: 55.140152, y: -34.43627, z: -258.85687}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -666,9 +666,9 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.027074622, y: 0.9712483, z: -0.1937007, w: 0.13573457}
+    m_Target: {x: 0.0075326557, y: 0.9916916, z: -0.06888641, w: 0.10837797}
     speed: 2
-    m_Value: {x: 0.027074622, y: 0.97124827, z: -0.1937007, w: 0.13573457}
+    m_Value: {x: 0.0075326557, y: 0.9916916, z: -0.06888641, w: 0.10837797}
   m_Size:
     m_Target: 263.27478
     speed: 2

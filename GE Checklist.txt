@@ -17,3 +17,19 @@
 4) Lose (__0%__)
 - Able to restart when lose
 - Inser jumpscare image when lose
+
+enemy A
+normal: http://soundbible.com/1094-Spooky-Chains.html
+http://soundbible.com/891-Growl.html
+attack: https://www.youtube.com/audiolibrary/soundeffects (Aggressive_Zombie_Snarls)
+
+bgm
+1)http://soundbible.com/1907-Thunder.html
+2)http://soundbible.com/1756-Scary-Ambiance.html
+
+win:
+lose:http://soundbible.com/1791-Torture.html
+http://soundbible.com/1826-Hell.html
+
+door
+http://soundbible.com/1717-Creaking-Door-Spooky.html

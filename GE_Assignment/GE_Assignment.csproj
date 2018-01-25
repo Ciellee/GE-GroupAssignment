@@ -236,10 +236,13 @@
     <Compile Include="Assets\Ameye\DoorsFree\Scripts\ConditionalHideAttribute.cs" />
     <Compile Include="Assets\Ameye\DoorsFree\Scripts\Detection.cs" />
     <Compile Include="Assets\Ameye\DoorsFree\Scripts\Door.cs" />
-    <Compile Include="Assets\DoorScript.cs" />
-    <Compile Include="Assets\EnemyMovement.cs" />
-    <Compile Include="Assets\FlashlightHit.cs" />
-    <Compile Include="Assets\FlickerLight.cs" />
+    <Compile Include="Assets\Scripts\DoorScript.cs" />
+    <Compile Include="Assets\Scripts\EnemyMovement.cs" />
+    <Compile Include="Assets\Scripts\FlashlightHit.cs" />
+    <Compile Include="Assets\Scripts\FlickerLight.cs" />
+    <Compile Include="Assets\Scripts\LevelManager.cs" />
+    <Compile Include="Assets\Scripts\RestartManager.cs" />
+    <Compile Include="Assets\Scripts\Sound.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Standard Assets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt" />
